@@ -3,9 +3,30 @@ public class OperadoresLogicos {
     
     static void main (String[] args) {
 
-        String nomeCompletoCurso = "Linguage" + "Java";
-        System.out.println(nomeCompletoCurso);
+        String concatenacao = "?";
+
+        System.out.println(concatenacao);
+        
+        concatenacao = 1+1+1+"1";
+
+        System.out.println(concatenacao);
+
+        concatenacao = 1+"1"+1+1;
+
+        System.out.println(concatenacao);
+
+        concatenacao = 1+"1"+1+"1";
+
+        System.out.println(concatenacao);
+
+        concatenacao = "1"+1+1+1;
+
+        System.out.println(concatenacao);
+        
+        concatenacao = "1"+(1+1+1);
+
+        System.out.println(concatenacao);
 
     }
 }
- 
+  

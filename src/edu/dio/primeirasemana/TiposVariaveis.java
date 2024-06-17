@@ -8,25 +8,25 @@ public class TiposVariaveis {
         
 
         double salarioMinimo = 2.5;
-        System.out.println(salarioMinimo);
+        // System.out.println(salarioMinimo);
 
         int numero = 1;
         numero = 4;
-        System.out.println(numero);
+        // System.out.println(numero);
 
         final double VALOR_DE_PI = 3.14;
-        System.out.println(VALOR_DE_PI);
+        // System.out.println(VALOR_DE_PI);
 
         short numeroCurto = 1;
         int numeroNormal = numeroCurto;
         short numeroCurto2 = (short) numeroNormal;
-        System.out.println(numeroCurto2);
+        // System.out.println(numeroCurto2);
         // acontecera um erro se o (short) não receber um cast,
         // pois a variaveis recebe um valor maior do que short. O correto seria mudar
         // para int
 
         String meuNome = "Celio Fermano" ;
-        System.out.println(meuNome);
+        // System.out.println(meuNome);
 
     }
 }
