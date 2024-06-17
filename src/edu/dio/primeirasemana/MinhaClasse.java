@@ -6,7 +6,7 @@ public class MinhaClasse {
         String segundonome = "Ferman";
 
         String nomeCompleto = nomeCompleto(primeiroNome, segundonome);
-        // System.out.println(nomeCompleto);
+        System.out.println(nomeCompleto);
 
     }
 
