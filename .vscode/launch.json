@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EstruturasRepeticoes",
+            "request": "launch",
+            "mainClass": "edu.dio.segundasemana.EstruturasRepeticoes",
+            "projectName": "Curso-Java-Dio_b86d1e19"
+        },
+        {
+            "type": "java",
+            "name": "Condicionais",
+            "request": "launch",
+            "mainClass": "edu.dio.segundasemana.Condicionais",
+            "projectName": "Curso-Java-Dio_b86d1e19"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
