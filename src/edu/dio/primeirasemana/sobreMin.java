@@ -19,5 +19,10 @@ public class sobreMin {
 
         System.out.println("Digite sua altura: ");
         int altura = scanner.nextInt();
+
+        
+        System.out.println("Ola me chamo " + nome + " " + sobrenome );
+        System.out.println("Tenho " + idade + " anos");
+        System.out.println("Minha altura é " + altura + "cm");
     }
 }
