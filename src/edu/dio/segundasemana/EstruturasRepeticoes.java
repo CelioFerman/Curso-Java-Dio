@@ -16,9 +16,10 @@ public class EstruturasRepeticoes {
 
         if (valorSolicitado < saldo) {
             saldo = saldo - valorSolicitado;
+            System.out.println("Novo saldo: " + saldo);
+
         }else {
             System.out.println("Saldo não compativel ao valor solicitado");
         }
-        System.out.println(saldo);
     }
 }
