@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PlanoOperadora",
+            "request": "launch",
+            "mainClass": "edu.dio.segundasemana.PlanoOperadora",
+            "projectName": "Curso-Java-Dio_b86d1e19"
+        },
+        {
+            "type": "java",
+            "name": "SistemaMedida",
+            "request": "launch",
+            "mainClass": "edu.dio.segundasemana.SistemaMedida",
+            "projectName": "Curso-Java-Dio_b86d1e19"
+        },
+        {
+            "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "edu.dio.segundasemana.ResultadoEscolar",
+            "projectName": "Curso-Java-Dio_b86d1e19"
+        },
+        {
+            "type": "java",
+            "name": "BoletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.dio.segundasemana.BoletimEstudantil",
+            "projectName": "Curso-Java-Dio_b86d1e19"
+        },
+        {
+            "type": "java",
             "name": "EstruturasRepeticoes",
             "request": "launch",
             "mainClass": "edu.dio.segundasemana.EstruturasRepeticoes",
