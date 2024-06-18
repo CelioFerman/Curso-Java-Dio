@@ -1,4 +1,4 @@
-package edu.dio.primeirasemana;
+package edu.dio.segundasemana;
 
 public class BoletimEstudantil {
 

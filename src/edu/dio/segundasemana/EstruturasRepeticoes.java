@@ -7,7 +7,7 @@ public class EstruturasRepeticoes {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
-        
+
         double saldo = 25.0;
 
         System.out.println("Digite o valor solicitado: ");
@@ -16,9 +16,9 @@ public class EstruturasRepeticoes {
 
         if (valorSolicitado < saldo) {
             saldo = saldo - valorSolicitado;
-        } else {
+        }else {
             System.out.println("Saldo não compativel ao valor solicitado");
-            System.out.println(saldo);
         }
+        System.out.println(saldo);
     }
 }
