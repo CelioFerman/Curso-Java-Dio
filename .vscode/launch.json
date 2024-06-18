@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "edu.dio.segundasemana.ExemploDoWhile",
+            "projectName": "Curso-Java-Dio_b86d1e19"
+        },
+        {
+            "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "edu.dio.segundasemana.ExemploWhile",
+            "projectName": "Curso-Java-Dio_b86d1e19"
+        },
+        {
+            "type": "java",
             "name": "ExemploBreackContinue",
             "request": "launch",
             "mainClass": "edu.dio.segundasemana.ExemploBreackContinue",
