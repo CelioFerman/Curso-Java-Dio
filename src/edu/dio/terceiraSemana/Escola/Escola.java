@@ -2,7 +2,7 @@ package edu.dio.terceiraSemana.Escola;
 
 public class Escola {
     public static void main(String[] args) {
-        edu.dio.terceiraSemana.Escola.Aluno felipe = new edu.dio.terceiraSemana.Escola.Aluno();
+        Aluno felipe = new Aluno();
         felipe.setNome("Felipe Junior");
         felipe.setIdade(11);
 
